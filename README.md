@@ -1,5 +1,6 @@
 # ChromeBook-Keyboard-xkb
-Use the custom GalliumOS ChromeBook Keyboard with any Ubuntu Flavor
+Use the custom GalliumOS ChromeBook Keyboard with any Ubuntu Flavor.
+All the top row keys will work as expected. Back, Forward, Screen Lock, Dim, Bright, Mute, Vol Down, Vol Up.
 
 
 Rename your existing xkb folder (ex..  xkb.old) and drop the replacment into the /usr/share/X11 folder and reboot.
